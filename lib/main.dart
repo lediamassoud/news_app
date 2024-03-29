@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
       routes: {
         Home.routeName: (_) => Home(),
       },
+      initialRoute: Home.routeName,
     );
   }
 }
