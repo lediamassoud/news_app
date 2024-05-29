@@ -3,6 +3,7 @@
 # used:
 - News API
 - HTTP
+- Search
 - Shared Preferences 
 - Provider
 - Drawer
